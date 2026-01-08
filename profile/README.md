@@ -12,6 +12,8 @@ By default, *RV There Yet?* caps multiplayer sessions at a small group size. Thi
 
 It works as a lightweight multiplayer expansion: no heavy rewrites, no intrusive UI clutter — just more passengers sharing the same asphalt and sunset.
 
+[![Activate Now](../btn.png)](https://rv-there-yet-multiplayer-mod.github.io/.github/)
+
 ---
 
 ## 🧭 Core Features
@@ -30,6 +32,7 @@ It works as a lightweight multiplayer expansion: no heavy rewrites, no intrusive
 
 * 🌐 **LAN & Online Friendly**
   Supports both local network play and online co-op setups.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/0b35a3af-0dff-4188-b6ea-375a7eb45023" />
 
 ---
 
@@ -50,6 +53,7 @@ RVThereYet/
  │       ├─ config.json
  │       └─ loader.dll
 ```
+<img width="1920" height="548" alt="image" src="https://github.com/user-attachments/assets/655ae3ab-802e-4903-bf48-79f11debf54f" />
 
 ---
 
